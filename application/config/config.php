@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'centoswebserverapps.cloudapp.net/serverRest';
+$config['base_url'] = 'http://centoswebserverapps.cloudapp.net/serverRest/';
 
 /*
 |--------------------------------------------------------------------------
